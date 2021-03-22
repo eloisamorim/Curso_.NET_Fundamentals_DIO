@@ -1,4 +1,4 @@
-# Curso_.NET_Fundamentals_DIO
+# Curso .NET Fundamentals - Digital Innovation One
 ---
  Desafios e exemplos das aulas do curso .NET Fundamentals, ministrado pela Digital Innovation One.
  
